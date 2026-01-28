@@ -15,6 +15,8 @@ Desarrollador apasionado por construir aplicaciones web y APIs robustas con Pyth
   <img alt="HTML5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" height="30" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img alt="SQLite" height="30" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoho%20Deluge-E42527?logo=zoho&logoColor=white" />
 </p>
 
 ---
@@ -29,7 +31,7 @@ Desarrollador apasionado por construir aplicaciones web y APIs robustas con Pyth
 ### 🌐 Aplicaciones Front / Full Stack
 - **pokedex** – Práctica de APIs con Python (consumo de datos de Pokémon). :contentReference[oaicite:10]{index=10}  
 - **manejo-de-tareas** – App JS para gestión de tareas 🎯. [:contentReference[oaicite:11]{index=11}](https://graceful-choux-e8e867.netlify.app/)  
-- **Opinet-blog** – Proyecto de blog web (HTML/CSS). :contentReference[oaicite:12]{index=12}  
+- **Opinet-blog** – Proyecto de blog web (HTML/CSS/js/flask). https://opinet-blog.onrender.com/register  
 
 ---
 
