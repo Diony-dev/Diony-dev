@@ -22,9 +22,9 @@ Desarrollador apasionado por construir aplicaciones web y APIs robustas con Pyth
 ## 💻 Proyectos destacados
 
 ### 🏆 APIs & Backend
-- **blog_flask** – Blog con Flask (introducción a backend y rutas). :contentReference[oaicite:7]{index=7}  
-- **api_jwt_tasks** – API REST con autenticación JWT y manejo de tareas. :contentReference[oaicite:8]{index=8}  
-- **managment-certification-ecf-api** – Gestión de certificaciones (facturación electrónica). :contentReference[oaicite:9]{index=9}  
+- **blog_flask** – Blog con Flask (introducción a backend y rutas). https://opinet-blog.onrender.com/register 
+- **api_jwt_tasks** – API REST con autenticación JWT y manejo de tareas.  
+- **managment-certification-ecf-api** – Gestión de certificaciones (facturación electrónica).  
 
 ### 🌐 Aplicaciones Front / Full Stack
 - **pokedex** – Práctica de APIs con Python (consumo de datos de Pokémon). :contentReference[oaicite:10]{index=10}  
@@ -35,8 +35,7 @@ Desarrollador apasionado por construir aplicaciones web y APIs robustas con Pyth
 
 ## 📫 ¿Quieres contactarme?
 
-📩 **Email:** tu-correo@example.com  
-🔗 **LinkedIn:** https://linkedin.com/in/tu-perfil  
+📩 **Email:** dionyjunior11@gmail.com 
 💬 Siempre abierto a colaborar o aprender juntos 🚀
 
 ---
