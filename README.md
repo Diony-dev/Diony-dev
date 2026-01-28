@@ -30,7 +30,7 @@ Desarrollador apasionado por construir aplicaciones web y APIs robustas con Pyth
 
 ### 🌐 Aplicaciones Front / Full Stack
 - **pokedex** – Práctica de APIs con Python (consumo de datos de Pokémon). :contentReference[oaicite:10]{index=10}  
-- **manejo-de-tareas** – App JS para gestión de tareas 🎯. [:contentReference[oaicite:11]{index=11}](https://graceful-choux-e8e867.netlify.app/)  
+- **manejo-de-tareas** – App JS para gestión de tareas 🎯. https://graceful-choux-e8e867.netlify.app
 - **Opinet-blog** – Proyecto de blog web (HTML/CSS/js/flask). https://opinet-blog.onrender.com/register  
 
 ---
